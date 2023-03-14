@@ -1,0 +1,15 @@
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\bin\Debug\net6.0\Zadanie11.exe
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\bin\Debug\net6.0\Zadanie11.deps.json
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\bin\Debug\net6.0\Zadanie11.runtimeconfig.json
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\bin\Debug\net6.0\Zadanie11.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\bin\Debug\net6.0\Zadanie11.pdb
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.csproj.AssemblyReference.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.AssemblyInfoInputs.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.AssemblyInfo.cs
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.csproj.CoreCompileInputs.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\refint\Zadanie11.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.pdb
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\Zadanie11.genruntimeconfig.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie11\obj\Debug\net6.0\ref\Zadanie11.dll
