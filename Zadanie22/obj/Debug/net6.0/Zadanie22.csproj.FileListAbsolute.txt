@@ -1,0 +1,15 @@
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\bin\Debug\net6.0\Zadanie22.exe
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\bin\Debug\net6.0\Zadanie22.deps.json
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\bin\Debug\net6.0\Zadanie22.runtimeconfig.json
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\bin\Debug\net6.0\Zadanie22.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\bin\Debug\net6.0\Zadanie22.pdb
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.csproj.AssemblyReference.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.AssemblyInfoInputs.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.AssemblyInfo.cs
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.csproj.CoreCompileInputs.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\refint\Zadanie22.dll
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.pdb
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\Zadanie22.genruntimeconfig.cache
+C:\Users\79111\Desktop\GeekBrains\C#\Seminars\DZ\Zadanie22\obj\Debug\net6.0\ref\Zadanie22.dll
